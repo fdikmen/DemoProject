@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img alt="logo" src="./assets/icon.png" width="124px" style="border-radius:10px"/><br/>
 AI Powered Text Summarizer App</h1>
 
 ## 📱 About The Project
@@ -80,6 +79,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📞 Contact
 
-Project Owner - [@your-twitter](https://twitter.com/your-twitter)
+Project Owner - [firatdikmen@outlook.com](firatdikmen@outlook.com)
 
-Project Link: [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
+Project Link: [https://github.com/fdikmen/DemoProject](https://github.com/your-username/your-repo-name](https://github.com/fdikmen/DemoProject)
