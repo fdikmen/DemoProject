@@ -79,6 +79,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📞 Contact
 
-Project Owner - [firatdikmen@outlook.com](firatdikmen@outlook.com)
+Project Owner - [firatdikmen@outlook.com](mailto:firatdikmen@outlook.com)
 
-Project Link: [https://github.com/fdikmen/DemoProject](https://github.com/your-username/your-repo-name](https://github.com/fdikmen/DemoProject)
+Project Link: [https://github.com/fdikmen/DemoProject](https://github.com/fdikmen/DemoProject)
